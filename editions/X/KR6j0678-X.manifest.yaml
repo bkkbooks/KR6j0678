@@ -1,0 +1,386 @@
+canonical_identifier: bkk:krp/KR6j0678/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0678/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經要解
+  identifiers:
+    krp: KR6j0678
+    cbeta: X11n0270
+    cbeta_old_id: X11n0270
+    authorityid: CA0001999
+    json_key: X0270
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X11/X11n0270.xml
+    old_id: X11n0270
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0678_000-X.yaml, hash: 'sha256:f95a68d334a7c13ff71c03cb68896df8bee78b647c431b61e0f8b6845623bb29'}
+  - {seq: 1, filename: KR6j0678_001-X.yaml, hash: 'sha256:26c960fc1275cb01309299d7225755617a2e8e574925b0ce913330fc2a7f93ee'}
+  - {seq: 2, filename: KR6j0678_002-X.yaml, hash: 'sha256:f483e8225c78bc1d2fd340ce029fd8a1952cbeb159c104d7f428ee330cbfd95a'}
+  - {seq: 3, filename: KR6j0678_003-X.yaml, hash: 'sha256:94e169c410e058df6e428225191c650ed4a0d23221581b99c831e136a5cc2dce'}
+  - {seq: 4, filename: KR6j0678_004-X.yaml, hash: 'sha256:b232fea3e2da241eca7d4258f906c19f55901a4c22c077d4260aa33e2b9c9f92'}
+  - {seq: 5, filename: KR6j0678_005-X.yaml, hash: 'sha256:97cf88c38ec7bf21751ced69c2fb612f36405abee4a84d4f4cbc7b469d5d2d31'}
+  - {seq: 6, filename: KR6j0678_006-X.yaml, hash: 'sha256:6560baa178d5f24c57bc83d286db783a6371b0f8e911a08725a3a9a581d3c8b9'}
+  - {seq: 7, filename: KR6j0678_007-X.yaml, hash: 'sha256:2e7bfe1bb809e322533c6b9d6e043e46efe49355e5ddc63bcfd29995fc23c685'}
+  - {seq: 8, filename: KR6j0678_008-X.yaml, hash: 'sha256:26508917d671d5ed2e768ff966cbe88e529ee10393ba291c3b12cca3af5e046a'}
+  - {seq: 9, filename: KR6j0678_009-X.yaml, hash: 'sha256:0d5aac2cb30f05fdec0acc1e43de116909492bca5625a6c74edd05fa64d7a86f'}
+  - {seq: 10, filename: KR6j0678_010-X.yaml, hash: 'sha256:1de4885753e9d446c866d02f02f542fa57a737abc9cb1fa5709e45c6d87689b8'}
+  - {seq: 11, filename: KR6j0678_011-X.yaml, hash: 'sha256:1f2c2409ab5c7e1893f67c11cd36bbe68048eca1c2a43c0684a377f5c629b0e9'}
+  - {seq: 12, filename: KR6j0678_012-X.yaml, hash: 'sha256:fa2ac0b9d181a13accee6c7a635e03e729e5dea5ba52b556fe4e1523efe603db'}
+  - {seq: 13, filename: KR6j0678_013-X.yaml, hash: 'sha256:4187ce03a5016bc0db9b6e3c84c68a1a71c33e3dbcbf770e871f435555feb212'}
+  - {seq: 14, filename: KR6j0678_014-X.yaml, hash: 'sha256:7ee4bc9c6668a36524022d80629ca94b2840d0d467a9f1e6ad124ca6e1161c46'}
+  - {seq: 15, filename: KR6j0678_015-X.yaml, hash: 'sha256:1659127b07e02448db44d7c673ad14cb9c3bb12bbf5579176c2ff2ab918094a9'}
+  - {seq: 16, filename: KR6j0678_016-X.yaml, hash: 'sha256:b8aed1173ab25812d73fb33894a973d2bd591b56b78a75f6978a66fe7f514275'}
+  - {seq: 17, filename: KR6j0678_017-X.yaml, hash: 'sha256:31139ed0ce305edf14e9bd290ad83906012dd573cf208e24daf0b0da82d1c16c'}
+  - {seq: 18, filename: KR6j0678_018-X.yaml, hash: 'sha256:582e7a8ac4943282b91f015c8165dc3a13e04fec71bfbf9a6e7c934c7c5959f7'}
+  - {seq: 19, filename: KR6j0678_019-X.yaml, hash: 'sha256:f8ae19bbe86f28a8e6ed49867d18ebf3ef93186e9c5c682227bd58017d697ba6'}
+  - {seq: 20, filename: KR6j0678_020-X.yaml, hash: 'sha256:4d79b7acec96343c0522f635de3d88dc8669749a4e73372287dc7068c288d486'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0678_000-X.markers.yaml, hash: 'sha256:79468fadae5f699a07211d6e2779c89a35597e7ce6768de7160144e33c39568a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0678_001-X.markers.yaml, hash: 'sha256:687e4465f6e175f9de1bbb1d13e06553d23c96cd7b72614a2465dfed12fcee27'}
+  - {seq: 2, role: markers, filename: assets/KR6j0678_002-X.markers.yaml, hash: 'sha256:927a35d8fdc39df867ba9f4c7998c5a32a5d4ea124583ebd1de0f911b67cb62a'}
+  - {seq: 3, role: markers, filename: assets/KR6j0678_003-X.markers.yaml, hash: 'sha256:e0890785838e579a0f3bc7113261afe37f56a905cf936f4a09d3d414b2cf8c32'}
+  - {seq: 4, role: markers, filename: assets/KR6j0678_004-X.markers.yaml, hash: 'sha256:12aa0313de872153b90eabce6b28ebfa69b135902dc7c90b0ebb7f143cf5a84e'}
+  - {seq: 5, role: markers, filename: assets/KR6j0678_005-X.markers.yaml, hash: 'sha256:c0209c2eb156cf9688df0a28b7117d89df41bff27ec3dff2b19be76b339c87cf'}
+  - {seq: 6, role: markers, filename: assets/KR6j0678_006-X.markers.yaml, hash: 'sha256:6461c39ca40c055af8507392e003f18007b9f453bb6431b67da8b0adfc7484cb'}
+  - {seq: 7, role: markers, filename: assets/KR6j0678_007-X.markers.yaml, hash: 'sha256:deac67e99f8c9c06871dceb232aedae2bd35275340dfa5a79352fcc02b0e8685'}
+  - {seq: 8, role: markers, filename: assets/KR6j0678_008-X.markers.yaml, hash: 'sha256:3090e359be326fe075906819a6895732741c5f1960f4868a4d0c2b3c3cc637cb'}
+  - {seq: 9, role: markers, filename: assets/KR6j0678_009-X.markers.yaml, hash: 'sha256:d1ed37335e0541b7f955bf8a86b6fce4e8dcce66a0f308f928a06c653ec3a99a'}
+  - {seq: 10, role: markers, filename: assets/KR6j0678_010-X.markers.yaml, hash: 'sha256:5cd4fbfb7168f4ebe83182f6cc6406b0143f15e05a42ddabcb4b1df869cea69b'}
+  - {seq: 11, role: markers, filename: assets/KR6j0678_011-X.markers.yaml, hash: 'sha256:139c9fa556ad0b7c4d24a5566012ff37b4f561e45625cc735e0aa734339df480'}
+  - {seq: 12, role: markers, filename: assets/KR6j0678_012-X.markers.yaml, hash: 'sha256:faf1bd6ca7eba3fae7b0f36a0c8abe3f22751322ff49c78a352149857c08e02c'}
+  - {seq: 13, role: markers, filename: assets/KR6j0678_013-X.markers.yaml, hash: 'sha256:689e4188121e4c588a7255909c26600c2a4577d423552063d9c246e775a3996b'}
+  - {seq: 14, role: markers, filename: assets/KR6j0678_014-X.markers.yaml, hash: 'sha256:f2fa78ed8cf1f4c7494c45772fd69909ab3965e1d4382c273974fedf1a55ae16'}
+  - {seq: 15, role: markers, filename: assets/KR6j0678_015-X.markers.yaml, hash: 'sha256:42eb64c399d134eaa738fcb5a02ff81cc2564cff750b366430cc3d9bdf513a3f'}
+  - {seq: 16, role: markers, filename: assets/KR6j0678_016-X.markers.yaml, hash: 'sha256:15e4d01def3c0ac49f19bd54a8281e3cdd75340509745b8c90fbd0280d7d9673'}
+  - {seq: 17, role: markers, filename: assets/KR6j0678_017-X.markers.yaml, hash: 'sha256:36162eb98c3c7f1825831abd2850bb6117c270b1cdfcf1820ded68b07efef757'}
+  - {seq: 18, role: markers, filename: assets/KR6j0678_018-X.markers.yaml, hash: 'sha256:fa4c4cb9f4def6b9e6f8b787f538e336cc51cc7aaa71fdedf34d5e4d54e07c65'}
+  - {seq: 19, role: markers, filename: assets/KR6j0678_019-X.markers.yaml, hash: 'sha256:65a982f4a2844b246ecaeb6fcf9a74d8ced9248e4c24b9e7b8247acce1ff853f'}
+  - {seq: 20, role: markers, filename: assets/KR6j0678_020-X.markers.yaml, hash: 'sha256:0854180ba1f7fc02d9a95fa0ba8010d033bf9a35241dcffc0a1ca8a315198846'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0678_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 270-A 首楞嚴經要解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0678_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5916
+  label: '大佛頂如來密因修證了義諸菩
+
+    薩萬行首楞嚴經要解卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0678_X_001-mulu-1
+    span:
+    - body
+    - 56
+    - 56
+  label: 初通釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0678_X_001-mulu-2
+    span:
+    - body
+    - 567
+    - 567
+  label: 二通敘科判
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0678_X_001-mulu-3
+    span:
+    - body
+    - 1976
+    - 1976
+  label: 三正釋經文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0678_X_001-mulu-4
+    span:
+    - body
+    - 1996
+    - 1996
+  label: 初序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0678_X_001-mulu-5
+    span:
+    - body
+    - 3927
+    - 3927
+  label: 二正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0678_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 6171
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0678_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 6887
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0678_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 6841
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0678_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 6535
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0678_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 6138
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0678_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 8084
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0678_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 6455
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0678_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 5745
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0678_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 4261
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十'
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0678_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 5418
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十一'
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0678_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 7232
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十二'
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0678_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 7257
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十三'
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0678_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 5867
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十四'
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6j0678_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 7291
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十五'
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6j0678_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 7902
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十六'
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6j0678_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 7242
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十七'
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6j0678_X_018-juan-start
+    span:
+    - body
+    - 0
+    - 6487
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十八'
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6j0678_X_019-juan-start
+    span:
+    - body
+    - 0
+    - 4837
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第十九'
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0678_X_020-juan-start
+    span:
+    - body
+    - 0
+    - 6274
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    要解卷第二十'
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0678_X_020-mulu-1
+    span:
+    - body
+    - 5421
+    - 5421
+  label: 三流通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6j0678_X_020-mulu-2
+    span:
+    - body
+    - 5916
+    - 5916
+  label: No. 270-B
+  type: mulu
+  level: 1
+hash: sha256:e33c38182dfbeb93d5131dab2d10965e0e02c87783a8bf1bbcf60df5d1436c8e
