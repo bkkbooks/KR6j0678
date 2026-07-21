@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0678_000-X.yaml, hash: 'sha256:f95a68d334a7c13ff71c03cb68896df8bee78b647c431b61e0f8b6845623bb29'}
+  - {seq: 0, filename: KR6j0678_000-X.yaml, hash: 'sha256:51f5556bab901aa83af660b276aa7c8d32c30b9daf7bfb13d2051ad45c9ac1f6'}
   - {seq: 1, filename: KR6j0678_001-X.yaml, hash: 'sha256:26c960fc1275cb01309299d7225755617a2e8e574925b0ce913330fc2a7f93ee'}
   - {seq: 2, filename: KR6j0678_002-X.yaml, hash: 'sha256:f483e8225c78bc1d2fd340ce029fd8a1952cbeb159c104d7f428ee330cbfd95a'}
   - {seq: 3, filename: KR6j0678_003-X.yaml, hash: 'sha256:94e169c410e058df6e428225191c650ed4a0d23221581b99c831e136a5cc2dce'}
@@ -41,7 +41,7 @@ assets:
   - {seq: 19, filename: KR6j0678_019-X.yaml, hash: 'sha256:f8ae19bbe86f28a8e6ed49867d18ebf3ef93186e9c5c682227bd58017d697ba6'}
   - {seq: 20, filename: KR6j0678_020-X.yaml, hash: 'sha256:4d79b7acec96343c0522f635de3d88dc8669749a4e73372287dc7068c288d486'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0678_000-X.markers.yaml, hash: 'sha256:79468fadae5f699a07211d6e2779c89a35597e7ce6768de7160144e33c39568a'}
+  - {seq: 0, role: markers, filename: assets/KR6j0678_000-X.markers.yaml, hash: 'sha256:07f35235b8a40004ba854f38025f5b475e3fed3dc1e1aea26429a240d7556c90'}
   - {seq: 1, role: markers, filename: assets/KR6j0678_001-X.markers.yaml, hash: 'sha256:687e4465f6e175f9de1bbb1d13e06553d23c96cd7b72614a2465dfed12fcee27'}
   - {seq: 2, role: markers, filename: assets/KR6j0678_002-X.markers.yaml, hash: 'sha256:927a35d8fdc39df867ba9f4c7998c5a32a5d4ea124583ebd1de0f911b67cb62a'}
   - {seq: 3, role: markers, filename: assets/KR6j0678_003-X.markers.yaml, hash: 'sha256:e0890785838e579a0f3bc7113261afe37f56a905cf936f4a09d3d414b2cf8c32'}
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0678_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 270-A 首楞嚴經要解序
@@ -383,4 +383,4 @@ table_of_contents:
   label: No. 270-B
   type: mulu
   level: 1
-hash: sha256:e33c38182dfbeb93d5131dab2d10965e0e02c87783a8bf1bbcf60df5d1436c8e
+hash: sha256:17e5574e445a33edac76030f17eb541e8ccb968bc5aba722d406bb279388d617
